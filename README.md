@@ -8,7 +8,7 @@ Monthly Sales Trend: Line chart showcasing monthly coffee sales over the years.
 Top 5 Customers: Bar chart highlighting the top five customers based on sales.
 Country-wise Sales: Bar chart representing sales distribution across different countries.
 
-🚴‍♂️ Bike Sales Excel Dashboard
+2.🚴‍♂️ Bike Sales Excel Dashboard
 📊 Project Overview
 This project involves analyzing bike sales data to uncover insights into customer purchasing behavior. The dashboard provides visual representations of key metrics, enabling stakeholders to make informed decisions.
 
