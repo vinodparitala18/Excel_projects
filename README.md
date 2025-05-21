@@ -29,4 +29,14 @@ Removed duplicates and irrelevant columns.
 ->Line Chart: Depicting purchase trends across different age groups.
 ->Line Chart: Illustrating the relationship between commute distance and bike purchases.
 
+3. 📊 Vrinda Store Annual Sales Analysis (Excel Dashboard)
+    Analyzed Vrinda Store's 2022 sales data using Excel, employing pivot tables and charts for insights. Findings reveal women constitute \~65% of purchases, with the 30–49 age group contributing \~50%.
+    Top- performing states are Maharashtra, Karnataka, and Uttar Pradesh. Major sales channels include Amazon, Flipkart, and Myntra, accounting for \~80% of sales.
+    Recommendations suggest targeting women aged 30–49 in these states through promotions on these platforms to enhance sales.
+
+
+
+
+
+
 
